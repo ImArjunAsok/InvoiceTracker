@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TYl0mWqw42qE8lIaSWM3Gh7NvH8TW+KAtyBz0Bjwybc=",
+  "Source": "InvoiceTracker.API",
+  "BasePath": "_content/InvoiceTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvoiceTracker.API", "InvoiceTracker.API\InvoiceTracker.API.csproj", "{283839FF-E7BD-4217-922B-4DD300AECBE2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4B0D9235-896D-4357-BD86-FF7B3163C2B7} = {4B0D9235-896D-4357-BD86-FF7B3163C2B7}
+		{66821884-2384-4C4C-ADC1-CEDB6D4104FA} = {66821884-2384-4C4C-ADC1-CEDB6D4104FA}
+		{B11197D7-4B2A-4749-9BAD-8F7C57EA85F8} = {B11197D7-4B2A-4749-9BAD-8F7C57EA85F8}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvoiceTracker.Application", "InvoiceTracker.Application\InvoiceTracker.Application.csproj", "{66821884-2384-4C4C-ADC1-CEDB6D4104FA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4B0D9235-896D-4357-BD86-FF7B3163C2B7} = {4B0D9235-896D-4357-BD86-FF7B3163C2B7}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvoiceTracker.Core", "InvoiceTracker.Core\InvoiceTracker.Core.csproj", "{4B0D9235-896D-4357-BD86-FF7B3163C2B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvoiceTracker.Infrastructure", "InvoiceTracker.Infrastructure\InvoiceTracker.Infrastructure.csproj", "{B11197D7-4B2A-4749-9BAD-8F7C57EA85F8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4B0D9235-896D-4357-BD86-FF7B3163C2B7} = {4B0D9235-896D-4357-BD86-FF7B3163C2B7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283839FF-E7BD-4217-922B-4DD300AECBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283839FF-E7BD-4217-922B-4DD300AECBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283839FF-E7BD-4217-922B-4DD300AECBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283839FF-E7BD-4217-922B-4DD300AECBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66821884-2384-4C4C-ADC1-CEDB6D4104FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66821884-2384-4C4C-ADC1-CEDB6D4104FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66821884-2384-4C4C-ADC1-CEDB6D4104FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66821884-2384-4C4C-ADC1-CEDB6D4104FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0D9235-896D-4357-BD86-FF7B3163C2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0D9235-896D-4357-BD86-FF7B3163C2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0D9235-896D-4357-BD86-FF7B3163C2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0D9235-896D-4357-BD86-FF7B3163C2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11197D7-4B2A-4749-9BAD-8F7C57EA85F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11197D7-4B2A-4749-9BAD-8F7C57EA85F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11197D7-4B2A-4749-9BAD-8F7C57EA85F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11197D7-4B2A-4749-9BAD-8F7C57EA85F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA1A061-B3E8-431D-8811-24CD6B59A4B7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\bin\Debug\net6.0\InvoiceTracker.Infrastructure.deps.json
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\bin\Debug\net6.0\InvoiceTracker.Infrastructure.runtimeconfig.json
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\bin\Debug\net6.0\InvoiceTracker.Infrastructure.dll
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\bin\Debug\net6.0\InvoiceTracker.Infrastructure.pdb
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\bin\Debug\net6.0\InvoiceTracker.Core.dll
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\bin\Debug\net6.0\InvoiceTracker.Core.pdb
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\InvoiceTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\InvoiceTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\InvoiceTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\InvoiceTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\InvoiceTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\InvoiceTracker.Infrastructure.csproj.CopyComplete
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\InvoiceTracker.Infrastructure.dll
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\refint\InvoiceTracker.Infrastructure.dll
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\InvoiceTracker.Infrastructure.pdb
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\InvoiceTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Infrastructure\obj\Debug\net6.0\ref\InvoiceTracker.Infrastructure.dll

@@ -1,0 +1,14 @@
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\bin\Debug\net6.0\InvoiceTracker.Core.deps.json
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\bin\Debug\net6.0\InvoiceTracker.Core.runtimeconfig.json
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\bin\Debug\net6.0\InvoiceTracker.Core.dll
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\bin\Debug\net6.0\InvoiceTracker.Core.pdb
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\InvoiceTracker.Core.csproj.AssemblyReference.cache
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\InvoiceTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\InvoiceTracker.Core.AssemblyInfoInputs.cache
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\InvoiceTracker.Core.AssemblyInfo.cs
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\InvoiceTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\InvoiceTracker.Core.dll
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\refint\InvoiceTracker.Core.dll
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\InvoiceTracker.Core.pdb
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\InvoiceTracker.Core.genruntimeconfig.cache
+C:\Users\arjun.asok\Desktop\InvoiceTracker\Server\InvoiceTracker\InvoiceTracker.Core\obj\Debug\net6.0\ref\InvoiceTracker.Core.dll
